@@ -2,12 +2,23 @@ project:
   type: website
 
 website:
-  title: "christianstratton"
+  title: "Christian Stratton"
   navbar:
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      # - text: Home
+      #   href: index.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Presentations
+        href: presentations.qmd
+      - text: CV
+        href: cv.qmd
+    tools:
+      - icon: github
+        href: https://github.com/StrattonCh
+      - icon: envelope-at
+        href: mailto:3strattonc@gmail.com
 
 format:
   html:
