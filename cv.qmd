@@ -21,13 +21,12 @@ editor: source
 
 <!-- summary -->
 
-\header{Summary - \textcolor{red}{needs updating}}
+\header{Summary}
 \vspace*{2mm}
 
-Candidate for a Ph.D. in Statistics with consulting, research and teaching experience. Strong analytical skills including model-based ordination, multi-scale occupancy modeling, mixed modeling, and Bayesian data analysis. Advanced programmer and problem solver with extensive experience with ecological data types. Skillful at collaborating and communicating complex concepts both verbally and in writing.
+Post-doctoral researcher in statistics with consulting, research, and teaching experience. Strong analytical skills pertaining to spatial statistics, Bayesian computation, and analysis of ecological data types. Research interests include: Bayesian computation, spatial statistics, species distribution modeling, modeling of wildlife disease, data visualization, and teaching techniques for data science.
 
 <!-- education -->
-
 
 \header{Education}
 \vspace*{2mm}
@@ -95,7 +94,7 @@ Sepulveda, A. J., C. Schmidt, J. Amberg, P. Hutchins, \textbf{C. Stratton}, C. M
 \header{Peer-reviewed Technical Reports}
 \vspace*{2mm}
 
-\textcolor{red}{Add data release for WNS vignette.} \vspace*{2mm}
+<!-- \textcolor{red}{Add data release for WNS vignette.} \vspace*{2mm} -->
 
 \textbf{Stratton, C.}, B.R. Straw, J.H. Cox, K.M. Irvine, F.C. Tousley, and B.E. Reichert. 2023. ["Attributed North American Grid-Based Offshore Sampling Frames: U.S. Geological Survey data release."](https://doi.org/10.5066/P9H8NEOY) \vspace*{2mm}
 
@@ -134,6 +133,11 @@ Wessel, S.A., L. Jones, E. Kramer, \textbf{C. Stratton}, L. Shoemaker, and D. La
 
 \textbf{Stratton, C.} and J.L. Green. 2018. "The power of technology: A Shiny applet assisted approach to teaching statistical power." Poster presented at the Electronic Conference on Teaching Statistics. Virtual. \vspace*{2mm}
 
+\header{Peer-reviewed Science Software}
+\vspace*{2mm}
+
+**Stratton, C.**, A. Hoegh, A. Sepulveda, and K.M. Banner. 2020. "`msocc`." `R` package to support computationally efficient implementation of Bayesian multi-scale occupancy models. \vspace*{2mm}
+
 <!-- experience -->
 
 \header{Experience}
@@ -163,110 +167,160 @@ Supervisor: Dr. Kathryn Irvine (USGS)
 \begin{itemize} \itemsep 1pt
    \item Provided analyses for Endangered Species Act listing decisions
    \item Authored peer-review journal articles and technical reports
-   \item Communicated 
+   \item Collaborated with scientists from multiple domains 
 \end{itemize}
 
 \textbf{Montana State University} \hfill Bozeman, MT
 
 \textit{Math Learning Center Supervisor} \hfill June 2019 \| December 2019
 
-<!-- \vspace{-1mm} -->
-
-<!-- \begin{itemize} \itemsep 1pt -->
-
-<!--    \item Supervised graduate and undergraduate tutors -->
-
-<!--    \item Successfully coordinated monthly meetings -->
-
-<!--    \item Proposed and implemented logistical improvements including novel tutoring practices -->
-
-<!--    \item Coached new tutors on how to effectively communicate mathematics -->
-
-<!-- \end{itemize} -->
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Supervised graduate and undergraduate tutors
+   \item Coordinated monthly meetings
+   \item Proposed and implemented logistical improvements including novel tutoring practices
+   \item Coached new tutors on how to effectively communicate mathematics
+\end{itemize}
 
 \textbf{Montana State University} \hfill Bozeman, MT
 
 \textit{Graduate Research Assistant} \hfill January 2019 \| August 2020
 
-<!-- \vspace{-1mm} -->
-
-<!-- \begin{itemize} \itemsep 1pt -->
-
-<!--    \item Resolved a wide scope of ecological problems using various techniques -->
-
-<!--    \item Collaborated and communicated with domain experts in ecology and land-resource management -->
-
-<!--    \item Developed models and tools to aid collaborators -->
-
-<!--    \item Authored multiple papers, web applications, and R packages -->
-
-<!-- \end{itemize} -->
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Resolved a wide scope of ecological problems using various techniques
+   \item Collaborated and communicated with domain experts in ecology and land-resource management
+   \item Developed models and tools to aid collaborators
+   \item Authored papers, web applications, and R packages
+\end{itemize}
 
 \textbf{Montana State University} \hfill Bozeman, MT
 
 \textit{Statistical Consultant} \hfill August 2017 \| May 2018
 
-<!-- \vspace{-1mm} -->
-
-<!-- \begin{itemize} \itemsep 1pt -->
-
-<!--    \item Communicated with clients -->
-
-<!--    \item Identified solutions to a wide scope of problems -->
-
-<!--    \item Successfully collaborated across departments to resolve problems -->
-
-<!-- \end{itemize} -->
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Communicated with clients
+   \item Identified solutions to a wide scope of problems
+   \item Successfully collaborated across departments to resolve problems
+\end{itemize}
 
 \textbf{Montana State University} \hfill Bozeman, MT
 
 \textit{Graduate Teaching Assistant} \hfill January 2017 \| December 2018
 
-<!-- \vspace{-1mm} -->
-
-<!-- \begin{itemize} \itemsep 1pt -->
-
-<!--    \item Taught over 80 students introductory statistics -->
-
-<!--    \item Planned and prepared course materials including test questions and written assignments -->
-
-<!--    \item Coached students in a collaborative learning environment -->
-
-<!-- \end{itemize} -->
+\vspace{-1mm}
+\begin{itemize} \itemsep 1pt
+   \item Implemented active learning teaching strategies for introductory statistics
+   \item Planned and prepared course materials 
+   \item Coached students in a collaborative learning environment
+\end{itemize}
 
 \textbf{Montana State University} \hfill Bozeman, MT
 
 \textit{Math Learning Center Tutor} \hfill August 2014 \| December 2016
 
-
 \vspace{-1mm}
 \begin{itemize} \itemsep 1pt
-    \item 
+    \item Tutored students in a wide array of mathematics and statistics
+    \item Implemented active learning tutoring strategies
+    \item Facilitated management of operations in tutoring center
 \end{itemize}
 
 <!-- teaching experience -->
 
-
 \header{Teaching Experience}
 \vspace*{2mm}
 
-216, 217, 411, guest lecturer 408, guest lecturer 402/502
+**Guest Lecturer** \hfill Bozeman, MT
+
+*STAT 408: Statistical Computing and Graphics Analysis* \hfill S22
+
+Provided guest lectures on data visualization with the `tidyverse` and implementing version control software in statistical analyses to undergraduate-level statistics students. 
+\vspace*{2mm}
+
+**Guest Lecturer** \hfill Bozeman, MT
+
+*STAT 402/502: Intermediate Mathematical Statistics* \hfill S19
+
+Provided guest lecture on interpreting statistical power to undergraduate-level and graduate-level mathematical statistics students using an `R Shiny` app I created. 
+\vspace*{2mm}
+
+**Teaching Assistant** \hfill Bozeman, MT
+
+*STAT 411/511: Methods for Data Analysis I* \hfill S19
+
+Teaching assistant responsibilities included: grading homeworks and exams, writing and leading interactive lab assignments, and providing intermittent lectures on coding in `R` with an emphasis on data visualization. 
+\vspace*{2mm}
+
+**Instructor of Record** \hfill Bozeman, MT
+
+*STAT 217: Intermediate Statistical Concepts* \hfill F18
+
+Lead instructor responsibilities included: leading lectures, writing lecture notes, writing and grading homeworks and exams, writing lab assignments, and supervising teaching assistants. 
+\vspace*{2mm}
+
+**Instructor of Record**  \hfill Bozeman, MT
+
+*STAT 216: Introduction to Statistics* \hfill S17, F17, S18
+
+Lead instructor responsibilities included: leading lectures, writing lecture notes, writing and grading homeworks and exams, and writing lab assignments
+\vspace*{2mm}
 
 <!-- service -->
 
 \header{Service}
 
-STEAM day, MT ASA, DataFest, BEES
+**Montana Chapter of the American Statistical Association** \hfill Bozeman, MT
 
-<!-- coursework -->
+*Chapter Secretary and Council of Chapters Representative* \hfill Sept 2022 | Present
 
+Responsibilities included facilitating coordination of annual meetings, keeping meeting notes, and attending the CoC session at the Joint Statistical Meetings. 
+\vspace*{2mm}
 
-\header{Coursework}
+**Bozeman Environmental and Ecological Statistics (BEES)** \hfill Bozeman, MT
+
+*Co-President* \hfill Sept 2022 | Present
+
+The BEES research group is an group focused on mentoring graduate students with interest in statistical research motivated by environmental and ecological applications. Responsibilities as co-president include coordinating bi-weekly meetings, mentoring graduate students, providing papers for literature review sessions, maintaining the group website, and coordinating invited speaker presentations.
+\vspace*{2mm}
+
+**Annals of Applied Statistics** 
+
+*Referee* \hfill 2023
+
+Refereed papers for the *Annals of Applied Statistics* journal. 
+\vspace*{2mm}
+
+**Montana State University STEAM Day** \hfill Bozeman, MT 
+
+*Workshop Presenter* \hfill April 2023
+
+MSU STEAM Day is a one-day conference that includes hands-on workshops in the STEAM fields of science, technology, engineering, art and math for girls in grades six, seven, and eight. Presented an interactive activity introducing statistical inference using the dice game Pass the Pigs. 
+\vspace*{2mm}
+
+\newpage
+
+**DataFest** \hfill Bozeman, MT
+
+*Volunteer judge* \hfill 2019, 2022
+
+Volunteer responsibilities included providing support to undergraduate-level and graduate-level students competing in DataFest competition.
+\vspace*{2mm}
+
+\header{Skills}
+\vspace*{2mm}
+\begin{tabular}{ l l }
+  Statistical computing languages:  & R, Julia, SAS \\
+	Other programming languages:         &  HTML, Markdown, Quarto, R Shiny, Tableau \\
+  Probabilistic programming languages:         & BUGS, JAGS, NIMBLE, Stan \\
+	Database management systems:         & SQL, SQLite, Microsoft Excel \\
+	Word processors:       & LaTeX, Microsoft Word \\
+	Operating systems:       & Windows, Mac OS \\
+\end{tabular}
 \vspace*{2mm}
 
 <!-- awards -->
-
-
 \header{Awards}
 \vspace*{2mm}
 
@@ -329,3 +383,9 @@ Member of Phi Kappa Phi, a national multi-disciplinary honor society \hfill Marc
 Member of Pi Mu Epsilon, a national mathematics honor society \hfill December 2014
 
 \vspace*{2mm}
+
+<!-- references -->
+
+\header{References}
+\vspace*{2mm}
+
