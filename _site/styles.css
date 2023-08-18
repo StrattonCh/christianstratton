@@ -2,3 +2,7 @@
 .quarto-title > h1.title {
   text-align: center;
 }
+
+.quarto-title > h4.title {
+  font-weight: bold;
+}
