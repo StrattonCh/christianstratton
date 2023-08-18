@@ -1,7 +1,11 @@
 ---
-title: "christianstratton"
+title: "Christian Stratton"
 ---
 
-This is a Quarto website.
+### About me
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Research interests
+
+### Contact
+
+### Education
