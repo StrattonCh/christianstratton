@@ -13,7 +13,7 @@ website:
       - text: Presentations
         href: presentations.qmd
       - text: CV
-        href: cv.qmd
+        href: _site/cv.pdf
     tools:
       - icon: github
         href: https://github.com/StrattonCh
