@@ -13,8 +13,8 @@ editor: source
 \begin{center}
 {\Huge \scshape {Christian A. Stratton}} \\
 \faMapMarker \ 102 Branegan Court, Apt A. Bozeman, MT, 59715 \\
-\faEnvelope \ christianstratton@montana.edu \\ 
-\faGlobe \ https://strattonch.github.io/christianstratton/ \\
+\faEnvelope \ \href{mailto:christianstratton@montana.edu}{christianstratton@montana.edu} \\ 
+\faGlobe \ \href{https://strattonch.github.io/christianstratton/}{https://strattonch.github.io/christianstratton/} \\
 \faPhone \ (406) 261-9426 \\ 
 \end{center}
 \vspace*{2mm}
@@ -124,7 +124,7 @@ Wessel, S.A., L. Jones, E. Kramer, \textbf{C. Stratton}, L. Shoemaker, and D. La
 \textbf{Stratton, C.}, K.M. Irvine, E. Almberg, K. Smucker, and J. Gude. "Bats & Stats: Assessing Impacts of White-nose Syndrome on Western Bat Species." 2022. Talk given at the Northern Rocky Mountain Science Center. Bozeman, Montana, USA. \vspace*{2mm}
 
 \textbf{Stratton, C.}, A. Hoegh, K.M. Irvine, K.M. Banner. 2021. "Clustering and ordination with Dirichlet process mixture models." Invited talk given at the Joint Statistical Meetings. Virtual. \vspace*{2mm}
-
+\newpage
 \textbf{Stratton, C.}, J.L. Green. 2021. "Beyond normal: Understanding power through `R` Shiny." Poster presented at the United States Conference on Teaching Statistics. Virtual. \vspace*{2mm}
 
 \textbf{Stratton, C.}, A. Hoegh, and J.L. Green. 2018. "Predicting pitch type: A case study in Bayesian hierarchical multinomial regression." Invited talk given at the Joint Statistical Meetings. Vancouver, Canada. \vspace*{2mm}
@@ -243,7 +243,7 @@ Provided guest lectures on data visualization with the `tidyverse` and implement
 
 *STAT 402/502: Intermediate Mathematical Statistics* \hfill S19
 
-Provided guest lecture on interpreting statistical power to undergraduate-level and graduate-level mathematical statistics students using an `R Shiny` app I created. 
+Provided guest lecture on interpreting statistical power to undergraduate-level and graduate-level mathematical statistics students using `R Shiny`.
 \vspace*{2mm}
 
 **Teaching Assistant** \hfill Bozeman, MT
@@ -264,7 +264,7 @@ Lead instructor responsibilities included: leading lectures, writing lecture not
 
 *STAT 216: Introduction to Statistics* \hfill S17, F17, S18
 
-Lead instructor responsibilities included: leading lectures, writing lecture notes, writing and grading homeworks and exams, and writing lab assignments
+Lead instructor responsibilities included: leading lectures, writing lecture notes, writing and grading homeworks and exams, and writing lab assignments.
 \vspace*{2mm}
 
 <!-- service -->
@@ -298,8 +298,6 @@ Refereed papers for the *Annals of Applied Statistics* journal.
 
 MSU STEAM Day is a one-day conference that includes hands-on workshops in the STEAM fields of science, technology, engineering, art and math for girls in grades six, seven, and eight. Responsibilities included presenting an interactive activity introducing statistical inference using the dice game Pass the Pigs. 
 \vspace*{2mm}
-
-\newpage
 
 **DataFest** \hfill Bozeman, MT
 
@@ -388,4 +386,30 @@ Member of Pi Mu Epsilon, a national mathematics honor society \hfill December 20
 
 \header{References}
 \vspace*{2mm}
+
+**Dr. Katharine Banner** \hfill Bozeman, MT 
+
+*Montana State University*
+
+Assistant professor of statistics \hfill \href{mailto:katharine.banner@montana.edu}{katharine.banner@montana.edu} 
+
+\vspace*{2mm}
+
+**Dr. Andrew Hoegh** \hfill Bozeman, MT 
+
+*Montana State University*
+
+Assistant professor of statistics \hfill \href{mailto:andrew.hoegh@montana.edu}{andrew.hoegh@montana.edu} 
+
+\vspace*{2mm}
+
+**Dr. Kathryn Irvine** \hfill Bozeman, MT 
+
+*U.S. Geological Survey*
+
+Research statistician \hfill \href{mailto:kirvine@usgs.gov}{kirvine@usgs.gov} 
+
+\vspace*{2mm}
+
+
 
