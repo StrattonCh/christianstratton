@@ -13,7 +13,7 @@ website:
       - text: Presentations
         href: presentations.qmd
       - text: CV
-        href: _site/cv.pdf
+        href: cv.qmd
     tools:
       - icon: github
         href: https://github.com/StrattonCh
@@ -29,3 +29,6 @@ format:
 execute:
   freeze: auto
 
+
+# quarto render
+# quarto publish gh-pages
