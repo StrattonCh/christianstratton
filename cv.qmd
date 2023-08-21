@@ -296,7 +296,7 @@ Refereed papers for the *Annals of Applied Statistics* journal.
 
 *Workshop Presenter* \hfill April 2023
 
-MSU STEAM Day is a one-day conference that includes hands-on workshops in the STEAM fields of science, technology, engineering, art and math for girls in grades six, seven, and eight. Presented an interactive activity introducing statistical inference using the dice game Pass the Pigs. 
+MSU STEAM Day is a one-day conference that includes hands-on workshops in the STEAM fields of science, technology, engineering, art and math for girls in grades six, seven, and eight. Responsibilities included presenting an interactive activity introducing statistical inference using the dice game Pass the Pigs. 
 \vspace*{2mm}
 
 \newpage
@@ -305,7 +305,7 @@ MSU STEAM Day is a one-day conference that includes hands-on workshops in the ST
 
 *Volunteer judge* \hfill 2019, 2022
 
-Volunteer responsibilities included providing support to undergraduate-level and graduate-level students competing in DataFest competition.
+Volunteer responsibilities included providing guidance to undergraduate-level and graduate-level students competing in DataFest competition.
 \vspace*{2mm}
 
 \header{Skills}
