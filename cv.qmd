@@ -14,7 +14,7 @@ editor: source
 {\Huge \scshape {Christian A. Stratton}} \\
 \faMapMarker \ 102 Branegan Court, Apt A. Bozeman, MT, 59715 \\
 \faEnvelope \ christianstratton@montana.edu \\ 
-\faGlobe \ tmp.com \\
+\faGlobe \ https://strattonch.github.io/christianstratton/ \\
 \faPhone \ (406) 261-9426 \\ 
 \end{center}
 \vspace*{2mm}
