@@ -1,0 +1,31 @@
+---
+title: "CV"
+format: 
+  pdf:
+    template: cvtemplate.tex
+editor: source
+---
+
+\begin{center}
+\textbf{Statement on diversity, equity, and inclusion} 
+
+Christian Stratton
+\end{center}
+
+Growing up in a low-income household and working two jobs during my undergraduate degree has provided me with a glimpse at some of the obstacles under-represented communities face when pursuing higher education and careers in science, technology, engineering, and mathematics (STEM) fields. This experience motivated me to commit to encouraging students of all backgrounds to consider careers in STEM fields. During my time as a graduate student at Montana State University, I served on multiple recruitment panels and met individually with numerous prospective students, allowing me to act on my desire to encourage under-represented communities to consider careers in STEM. As a post-doctoral researcher, I actively recruited individuals from under-represented communities to join a research group that I lead focused on statistical methodology for environmental applications. As a member of the faculty, I look forward to the opportunity to further engage with under-represented communities. As faculty, I hope to improve accessibility for under-represented communities by advising and mentoring students, providing funding opportunities for students, and continuing to focus on recruitment of under-served communities.
+
+\vspace*{2mm}
+
+In addition to witnessing economic barriers to higher education firsthand, I have had the privilege of having multiple women as advisors and mentors throughout my academic experience. Through these relationships, I have learned about the barriers in place for under-represented communities in STEM fields, and in particular the barriers faced by women in STEM. As a result, I am committed to removing the
+
+
+<!-- As a result, I feel strongly that institutions of higher education have a responsibility to support all students, regardless of socio-economic background, race, identity, or religious affiliation, in their pursuit of higher education. During my time at Montana State University,  -->
+
+<!-- As faculty, I look forward to  -->
+
+
+
+
+<!-- STEAM day -->
+<!-- had female advisors/bosses -->
+<!-- JSM isolated statisticians workshop -->
