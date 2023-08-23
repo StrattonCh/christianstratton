@@ -1,0 +1,14 @@
+---
+  title: "Statement - research"
+format: 
+  pdf:
+  template: cvtemplate.tex
+editor: source
+---
+  
+  \begin{center}
+\textbf{Statement on research} 
+
+Christian Stratton
+\end{center}
+
