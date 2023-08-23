@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Statement - DEI"
 format: 
   pdf:
     template: cvtemplate.tex
@@ -12,20 +12,18 @@ editor: source
 Christian Stratton
 \end{center}
 
-Growing up in a low-income household and working two jobs during my undergraduate degree has provided me with a glimpse at some of the obstacles under-represented communities face when pursuing higher education and careers in science, technology, engineering, and mathematics (STEM) fields. This experience motivated me to commit to encouraging students of all backgrounds to consider careers in STEM fields. During my time as a graduate student at Montana State University, I served on multiple recruitment panels and met individually with numerous prospective students, allowing me to act on my desire to encourage under-represented communities to consider careers in STEM. As a post-doctoral researcher, I actively recruited individuals from under-represented communities to join a research group that I lead focused on statistical methodology for environmental applications. As a member of the faculty, I look forward to the opportunity to further engage with under-represented communities. As faculty, I hope to improve accessibility for under-represented communities by advising and mentoring students, providing funding opportunities for students, and continuing to focus on recruitment of under-served communities.
+Growing up in a low-income household and navigating the demands of working two jobs during my undergraduate years has provided me with a glimpse at some of the obstacles under-represented communities face when pursuing higher education and careers in science, technology, engineering, and mathematics (STEM) fields. This experience has motivated me to encourage students of all backgrounds to consider careers in STEM fields, and actively engage with outreach programs in an attempt to recruit students from under-represented communities. 
 
 \vspace*{2mm}
 
-In addition to witnessing economic barriers to higher education firsthand, I have had the privilege of having multiple women as advisors and mentors throughout my academic experience. Through these relationships, I have learned about the barriers in place for under-represented communities in STEM fields, and in particular the barriers faced by women in STEM. As a result, I am committed to removing the
+During my time as a graduate student at Montana State University, I served on multiple recruitment panels and met individually with numerous prospective students, allowing me to both actively improve the accessibility of STEM fields to individuals from under-represented communities and learn about the challenges and obstacles individuals from these communities face. As a post-doctoral researcher, I actively recruited individuals from under-represented communities to join a research group that I co-lead focused on discussing statistical methodology for environmental applications. As a member of the faculty, I look forward to the opportunity to further engage with under-represented communities. As faculty, I hope to improve accessibility for under-represented communities by advising and mentoring students, providing funding opportunities for students, and continuing to focus on recruitment of individuals from under-represented communities.
+
+\vspace*{2mm}
+
+In addition to witnessing some of the economic barriers to higher education firsthand, my academic journey has been enriched by the mentorship and guidance provided by women advisors. These relationships have provided me with insight into the barriers that are in place for under-represented groups, particularly for women in STEM. As a result, I am committed to improving the accessibility of careers in STEM fields for young women. Presenting a workshop at Montana State University's STEAM Day in the spring of 2023 is an example of this commitment. STEAM Day is a one-day conference that includes hands-on workshops in the fields of science, technology, engineering, art and math for middle school girls in grades six, seven, and eight around the state of Montana. This event served as a platform to captivate the imaginations of middle school girls from diverse backgrounds, including students from low-income areas and American Indian communities, instilling in them the belief that careers in science, technology, engineering, art, and mathematics are well within their grasp, despite the barriers they face. 
+
+\vspace*{2mm}
+
+As a faculty member, I will be committed to sustaining these efforts. I look forward to the opportunity to continue to serve marginalized students and foster a diverse and equitable learning environment for students of all background, socio-economic status, race, identity, and religious affiliation. Through mentorship, recruitment, outreach, and advocacy, I am devoted to realizing lasting change and creating in environment where all students can be successful. 
 
 
-<!-- As a result, I feel strongly that institutions of higher education have a responsibility to support all students, regardless of socio-economic background, race, identity, or religious affiliation, in their pursuit of higher education. During my time at Montana State University,  -->
-
-<!-- As faculty, I look forward to  -->
-
-
-
-
-<!-- STEAM day -->
-<!-- had female advisors/bosses -->
-<!-- JSM isolated statisticians workshop -->
