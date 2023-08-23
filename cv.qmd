@@ -387,11 +387,19 @@ Member of Pi Mu Epsilon, a national mathematics honor society \hfill December 20
 \header{References}
 \vspace*{2mm}
 
-**Dr. Katharine Banner** \hfill Bozeman, MT 
+<!-- **Dr. Katharine Banner** \hfill Bozeman, MT  -->
 
-*Montana State University*
+<!-- *Montana State University* -->
 
-Assistant professor of statistics \hfill \href{mailto:katharine.banner@montana.edu}{katharine.banner@montana.edu} 
+<!-- Assistant professor of statistics \hfill \href{mailto:katharine.banner@montana.edu}{katharine.banner@montana.edu}  -->
+
+<!-- \vspace*{2mm} -->
+
+**Dr. Jennifer Green** \hfill East Lansing, MI 
+
+*Michigan State University*
+
+Associate professor of statistics \hfill \href{mailto:jg@msu.edu}{jg@msu.edu} 
 
 \vspace*{2mm}
 
