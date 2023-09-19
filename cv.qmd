@@ -301,6 +301,8 @@ The BEES research group is a group focused on mentoring graduate students with i
 Refereed papers for the *Annals of Applied Statistics* journal. 
 \vspace*{2mm}
 
+\newpage
+
 **Montana State University STEAM Day** \hfill Bozeman, MT 
 
 *Workshop Presenter* \hfill April 2023
@@ -322,7 +324,6 @@ Volunteer responsibilities included providing guidance to undergraduate-level an
 	Other programming languages:         &  HTML, Markdown, Quarto, R Shiny, Tableau \\
   Probabilistic programming languages:         & BUGS, JAGS, NIMBLE, Stan \\
 	Database management systems:         & SQL, SQLite, Microsoft Excel \\
-	Word processors:       & LaTeX, Microsoft Word \\
 	Operating systems:       & Windows, Mac OS \\
 \end{tabular}
 \vspace*{2mm}
