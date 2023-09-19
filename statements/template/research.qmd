@@ -1,0 +1,64 @@
+---
+title: "Statement - research"
+format: 
+  pdf:
+    template: cvtemplate.tex
+editor: source
+---
+<!-- advice: https://crlt.umich.edu/sites/default/files/resource_files/CRLT_no23.pdf -->
+
+\begin{flushright}
+Christian Stratton
+
+\href{mailto:christianstratton@montana.edu}{christianstratton@montana.edu}
+
+(406) 261-9426
+\end{flushright}
+
+\begin{center}
+\textbf{Statement on research} 
+\end{center}
+
+John Tukey once said, "The best thing about being a statistician is that you get to play in everyone's backyard." This quote is an adage that I have embraced through my research. As a post-doctoral researcher working with Dr. Kathryn Irvine at the U.S. Geological Survey, my recent research interests have primarily concerned the development of statistical methodology to support the North American Bat Monitoring Program (NABat). The NABat program is a multi-agency, multi-discipline, collaborative monitoring program that aims to assess the status and trend of bat populations in North America, with particular emphasis on evaluating the response of bat populations to stressors such as disease and wind energy. As the only statistician on the team of interdisciplinary scientists, my role entailed developing statistical methodology for species distribution modeling (SDM), developing methods for assessing the impact of disease on bat populations, and communicating and collaborating with domain experts in the environmental and ecological sciences. 
+
+\vspace*{2mm}
+
+In addition to the development of statistical methodology to address problems in the environmental and ecological sciences, I have interest and experience in the following topics: SDM with observation error, Bayesian computation, Bayesian nonparametrics, spatial statistics, data integration, statistics education, techniques for collaborative statistics, and sports analytics. In the sections below, I describe my contributions to each of these research areas and my plan for future research at [**SCHOOL**].
+
+\vspace*{2mm}
+
+**SDM with observation error:** When monitoring birds, bats, insects, and frogs, we often rely upon acoustic recording devices to assess species presence; the audio recordings are then processed and assigned a species label via proprietary software packages. These software packages are prone to classification errors, which, if not acknowledged, result in biased estimates of species presence and abundance. My previous work investigated the impact of different validation strategies to account for classification errors; this work is published in *Methods in Ecology and Evolution*. 
+\vspace*{2mm}
+
+I am also interested in developing statistical methodology that better accounts for the idiosyncrasies of the acoustic processing pipeline. Current analytic frameworks remove audio recordings that are not assigned a single species label before analysis, resulting in a large volume of data being discarded before analysis. Future research will investigate statistical methodologies that can accommodate a larger portion of audio recordings, including those downgraded to multi-species labels. 
+
+\vspace*{2mm}
+
+**Spatial statistics:** I am broadly interested in developing tools for spatially motivated data. Recently, my research in this area has concerned the development of a modeling framework to assess the impact of a wildlife disease called White-nose Syndrome (WNS) on North American bat populations. This assessment is typically made by first modeling the disease spread to obtain some summary of disease occurrence across the landscape. Then, a measure of species distribution is regressed on that disease summary, and an estimate of the impact of the disease is obtained. However, this approach does not account for the uncertainty present in estimating the disease occurrence, resulting in overly precise estimates of the impact of the disease on the species distribution. A potential solution to this problem is to jointly model the two data sources in a single spatially misaligned regression model, allowing for appropriate uncertainty propagation throughout the model. This work is under review in the *Journal of Agricultural, Biological, and Environmental Statistics* and was presented at the Joint Statistical Meetings in 2023. 
+
+\vspace*{2mm}
+
+**Bayesian computation:** As increasingly large and complex data becomes more accessible, the need for scalable analytic methods increases. My previous work in this area focused on constructing a computationally efficient MCMC sampling procedure for multi-scale occupancy models that leveraged data augmentation strategies to afford Gibbs updates for all parameters in the model. This work is published in *Methods in Ecology and Evolution*, and provided to the public via the `msocc` `R` package. Future work in this area concerns developing scalable MCMC sampling procedures for large spatial data sets. For example, the spatially misaligned regression model described above is not well suited for large spatial domains. 
+\vspace*{2mm}
+
+**Data integration:** Modern wildlife monitoring programs often rely on multiple data sources to infer species distribution and abundance. For example, when providing analytic support for listing three bat species under the Endangered Species Act, we were required to submit analyses of multiple data sources, including stationary acoustic data, mobile acoustic data, capture data, and roost count data. Recently, there has been interest in integrating multiple data sources under a single unified framework. Previous attempts at data integration in ecology typically rely on defining a multi-state observation process that accommodates the various data sources. My current research focuses on developing a single hierarchical model, motivated by a spatial point process, that can accommodate multiple ecological data sources. This model was recently implemented for a regulatory clearance process for tri-colored bats. The manuscript detailing this framework is currently in preparation. 
+
+\vspace*{2mm}
+
+**Bayesian nonparametrics:** Scientists in the environmental and ecological sciences are often interested in clustering sample locations based on the distribution of species present. This problem usually manifests as a high-dimensional clustering problem, and the field of ordination has been developed to address this problem. Traditional ordination techniques rely upon a multi-step, distance-based process: first, the community data are converted to a dissimilarity matrix, where each entry describes the dissimilarity between sample locations based on some metric. Then, the distance matrix is projected into a lower dimension, often two, where the results are finally clustered based on their proximity in the lower dimension space. This multi-step process requires several subjective decisions (choice of dissimilarity index, projection technique, number of dimensions, number of clusters, etc.) that cannot be formally assessed, as the distance-based framework does not present a likelihood. My current research focuses on developing a hierarchical, model-based ordination framework that uses a Dirichlet process mixture to perform the clustering. This framework allows for probabilistic inferences about the number of clusters in the ecological community and provides tools for model comparison. This work is currently in review in *Methods in Ecology and Evolution* and was presented at the Joint Statistical Meetings in 2021. In future work, I plan to explore the sensitivity of the modeling framework to the Dirichlet process priors and other potential clustering options, such as sparse finite mixture models. 
+
+\vspace*{2mm}
+
+**Statistics education:** Given the availability of computational power and technology resources in the modern day, statistics education need not look the same as it did in the past. My current research interests focus on leveraging technology to improve statistics education and prepare students for the modern world. For example, during graduate school, I developed an `R` Shiny web application to visualize the impact of multiple quantities (sample size, significance level, null values, etc.) on statistical power for various distributions. This web application has since been implemented in multiple statistical theory courses at Montana State University and Michigan State University at both undergraduate and graduate levels. A description of this work is published in *Technology Innovations in Statistics Education* and was presented at the Electronic Conference on Teaching Statistics in 2018, and an updated version of the application was presented at the United States Conference on Teaching Statistics in 2021. Additionally, I plan to teach my courses using Quarto and integrate multiple coding languages, including `R`, Julia, and Python. Through this process, students gain valuable experience in technological literacy, a skill that translates to multiple career paths. 
+
+\vspace*{2mm}
+
+**Collaborative statistics:** As the only statistician on a collaborative team of scientists with the U.S. Geological Survey, I am acutely aware of how important it is to communicate statistics clearly with non-statisticians. Throughout my post-doctoral work, I have repeatedly needed to describe statistical methodology and model results to wildlife managers, government officials, and environmental scientists. I am interested in researching how we can better prepare students for these roles after university. As part of this current effort, I lead a working group of graduate students interested in environmental and ecological statistics in which we regularly focus on the communication of statistics. For more information on this working group, see the website at [https://bozemanenvrstat.github.io/](https://bozemanenvrstat.github.io/). 
+
+\vspace*{2mm}
+
+**Sports analytics:** Before working on environmental and ecological problems, I developed a hierarchical model for predicting pitch types in the MLB. This work was presented at the Cascadia Symposium on Statistics in Sports in Vancouver, British Columbia. I am still interested in developing additional methodology for sports applications, particularly in bringing non-quantitative sports into a quantitative era. I would be excited to explore potential research directions with future graduate students. 
+
+\vspace*{2mm}
+
+**Future research:** In addition to the future research directions enumerated above, I am interested in developing software packages to facilitate the uptake of new statistical methodologies for environmental and ecological statistics. I am also excited by the opportunity to explore new collaborative relationships at [**SCHOOL**] and continue to explore new backyards.
