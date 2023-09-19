@@ -1,6 +1,6 @@
 ---
 title: "CV"
-format: 
+format:
   pdf:
     template: cvtemplate.tex
 editor: source
@@ -55,7 +55,6 @@ Advisors: Dr. Andrew Hoegh and Dr. Jennifer Green
 
 <!-- peer-review publications -->
 
-
 \header{Peer-reviewed Journal Articles}
 \vspace*{2mm}
 
@@ -93,6 +92,8 @@ Sepulveda, A. J., C. Schmidt, J. Amberg, P. Hutchins, \textbf{C. Stratton}, C. M
 
 \header{Peer-reviewed Technical Reports}
 \vspace*{2mm}
+
+<!-- ADD BRAD PESU THING, ADD WNS VIGNETTE -->
 
 <!-- \textcolor{red}{Add data release for WNS vignette.} \vspace*{2mm} -->
 
@@ -395,14 +396,6 @@ Member of Pi Mu Epsilon, a national mathematics honor society \hfill December 20
 
 <!-- \vspace*{2mm} -->
 
-**Dr. Jennifer Green** \hfill East Lansing, MI 
-
-*Michigan State University*
-
-Associate professor of statistics \hfill \href{mailto:jg@msu.edu}{jg@msu.edu} 
-
-\vspace*{2mm}
-
 **Dr. Andrew Hoegh** \hfill Bozeman, MT 
 
 *Montana State University*
@@ -419,5 +412,17 @@ Research statistician \hfill \href{mailto:kirvine@usgs.gov}{kirvine@usgs.gov}
 
 \vspace*{2mm}
 
+**Dr. Jennifer Green** \hfill East Lansing, MI 
 
+*Michigan State University*
 
+Associate professor of statistics \hfill \href{mailto:jg@msu.edu}{jg@msu.edu} 
+
+\vspace*{2mm}
+
+**Dr. Stacey Hancock** \hfill Bozeman, MT 
+
+*Montana State University*
+
+Associate professor of statistics \hfill \href{mailto:stacey.hancock@montana.edu}{stacey.hancock@montana.edu} 
+\vspace*{2mm}

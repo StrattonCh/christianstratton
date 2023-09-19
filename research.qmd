@@ -1,8 +1,8 @@
 ---
-  title: "Statement - research"
+title: "Statement - research"
 format: 
   pdf:
-  template: cvtemplate.tex
+    template: cvtemplate.tex
 editor: source
 ---
   

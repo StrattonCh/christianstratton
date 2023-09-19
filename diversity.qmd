@@ -1,6 +1,6 @@
 ---
 title: "Statement - DEI"
-format: 
+format:
   pdf:
     template: cvtemplate.tex
 editor: source
