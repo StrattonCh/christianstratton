@@ -3,6 +3,7 @@ title: "CV"
 format:
   pdf:
     template: cvtemplate.tex
+    keep-tex: true
 editor: source
 ---
 
@@ -268,6 +269,13 @@ Lead instructor responsibilities included: leading lectures, writing lecture not
 Lead instructor responsibilities included: leading lectures, writing lecture notes, writing and grading homeworks and exams, and writing lab assignments.
 \vspace*{2mm}
 
+**Teaching assisstant**  \hfill Bozeman, MT
+
+*STAT 216: Introduction to Statistics* \hfill F15, S16, F16
+
+Teaching responsibilities included: facilitating discussion during in-class activities and holding office hours for students.
+\vspace*{2mm}
+
 <!-- service -->
 
 \header{Service}
@@ -276,19 +284,19 @@ Lead instructor responsibilities included: leading lectures, writing lecture not
 
 *Chapter Secretary and Council of Chapters Representative* \hfill Sept 2022 | Present
 
-Responsibilities included facilitating coordination of annual meetings, keeping meeting notes, and attending the CoC session at the Joint Statistical Meetings. 
+Responsibilities included facilitating coordination of annual meetings, keeping meeting notes, and attending the Council of Chapters session at the Joint Statistical Meetings. 
 \vspace*{2mm}
 
 **Bozeman Environmental and Ecological Statistics (BEES)** \hfill Bozeman, MT
 
 *Co-President* \hfill Sept 2022 | Present
 
-The BEES research group is an group focused on mentoring graduate students with interest in statistical research motivated by environmental and ecological applications. Responsibilities as co-president include coordinating bi-weekly meetings, mentoring graduate students, providing papers for literature review sessions, maintaining the group website, and coordinating invited speaker presentations.
+The BEES research group is a group focused on mentoring graduate students with interest in statistical research motivated by environmental and ecological applications. Responsibilities as co-president include coordinating bi-weekly meetings, mentoring graduate students, providing papers for literature review sessions, maintaining the group website, and coordinating invited speaker presentations.
 \vspace*{2mm}
 
 **Annals of Applied Statistics** 
 
-*Referee* \hfill 2023
+*Referee* \hfill 2023 | Present
 
 Refereed papers for the *Annals of Applied Statistics* journal. 
 \vspace*{2mm}

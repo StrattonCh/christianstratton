@@ -5,10 +5,30 @@ format:
     template: cvtemplate.tex
 editor: source
 ---
+<!-- advice: https://crlt.umich.edu/sites/default/files/resource_files/CRLT_no23.pdf -->
 
 \begin{center}
 \textbf{Statement on teaching philosophy} 
 
 Christian Stratton
 \end{center}
+
+I still vividly remember sitting down for my first day of introductory statistics with Dr. Katharine Banner in the fall of 2015. As we all wrestled with the installation of `R`, `R` Markdown, and MikTeX, Dr. Banner shared visualizations created in `R` from various projects during graduate school. Her excitement was palpable as she described the power of statistics to provide quantitative solutions to real-world problems. I recall spending the rest of my evening with the `cars` data set and StackOverflow, trying to figure out how to overlay a density plot on a histogram and make them different colors. 
+
+\vspace*{2mm}
+
+A year later, I found myself enrolled in probability theory with Dr. Jennifer Green, thumbing through the course calendar before class, intimidated by terms like "Jacobian transformations" and "moment-generating functions." My anxiety was immediately alleviated as the ice-breaker on the first day of class ignited a 30-minute discussion about our backgrounds, expectations, and the utility and beauty of statistics. Each of the following classes began with a prompt first discussed in small groups, then again shared as a class. This technique left me feeling excited for class despite my trepidation prior to the start of the semester. For the remainder of my time in school, Dr. Green remained remarkably approachable, always happy to talk about effective teaching strategies or how the hypergeometric distribution may be used in forensic glass comparison. 
+
+\vspace*{2mm}
+
+In the fall of 2017, I enrolled in Bayesian Data Analysis with Dr. Andrew Hoegh. Frequently throughout the semester, Dr. Hoegh flipped the classroom, encouraging us to work in groups to derive posterior distributions and construct MCMC samplers. During this time, Dr. Hoegh would visit with each group and field questions, at times posing new questions for the group to ponder. Through this process, I developed a deep curiosity for Bayesian statistics, which motivated me to visit Dr. Hoegh's office hours frequently. During these visits, we had lengthy conversations about the philosophy of Bayesian statistics, practical applications, and the nuts and bolts of Bayesian computation. These conversations are particularly memorable, as Dr. Hoegh would tirelessly entertain my curiosities, often answering questions with questions and encouraging me to dive deeper into literature and scholarship. 
+
+\vspace*{2mm}
+
+As I reflect on my years as a student, I am struck by the fact that my recollection is less of the courses I took, but instead of the outstanding professors that taught them. Many of these individuals would go on to become my advisors and mentors, each changing the trajectory of my life. To me, they each embody what it means to teach
+
+
+
+
+
 
