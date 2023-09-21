@@ -16,25 +16,62 @@ Christian Stratton
 \end{flushright}
 
 \begin{center}
-\textbf{Statement on teaching philosophy} 
+\textbf{Teaching statement} 
 \end{center}
 
-As I reflect on some of the most memorable and impactful courses from my time as a student, a common theme emerges: they were all taught by outstanding educators who were excited about statistics and intentionally engaged the students in their classrooms. In each of these classes, the instructors made concerted efforts to create an environment where the students actively participated in learning rather than simply recording information. My teaching philosophy reflects this core tenet and has been further shaped by a wide array of teaching experiences to a diverse collection of students. As an undergraduate student, I worked in the Math and Stat Learning Center and tutored a wide variety of courses, from College Algebra to Calculus III and Linear Algebra to Intermediate Statistical Concepts. During this time, I also served as a teaching assistant for Introduction to Statistics, where I facilitated labs. As a graduate student, I had the opportunity to be lead instructor of the introductory and intermediate statistics courses at Montana State, where my responsibilities included creating lecture materials, holding office hours
-
-
-\vspace*{2mm}
-
-
+As I reflect on some of the most memorable and impactful courses from my time as a student, two common themes emerge: they were all taught by outstanding educators who 1) intentionally engaged the students in their classrooms in learning and 2) built rapport with their students. My teaching philosophy reflects these core tenets and has been shaped by a wide array of teaching experiences for a diverse collection of students. Below, I summarize my teaching experience and provide specific scenarios in which these two core tenets were realized. 
 
 \vspace*{2mm}
 
+My initial exposure to teaching began during my undergraduate degree and continued during my graduate degree. As an undergraduate student, I worked in the Mathematics and Statistics Learning Center, where I tutored various courses, from College Algebra to Calculus III to Linear Algebra to Intermediate Statistical Concepts. During this time, I also served as a teaching assistant for Introduction to Statistics, where I facilitated lectures, met with students during office hours, and assisted students during labs. As a graduate student, I had the opportunity to be the lead instructor of the introductory and intermediate statistics courses at Montana State, where my responsibilities included creating course materials, holding office hours, and leading lectures. As the latter half of my doctoral work transitioned towards research positions, I stayed engaged with teaching by serving as the teaching assistant for STAT 411/511, the undergraduate capstone data analysis course. As a TA for STAT 411/511, my responsibilities included writing and leading labs, holding office hours, and contributing lectures periodically. Finally, while working as a student contractor with the USGS during the end of my doctorate, I was invited to contribute guest lectures in undergraduate and graduate mathematical statistics courses and a course on statistical computing. 
+
+\vspace*{2mm}
+
+**Active learning**
+
+\vspace*{2mm}
+
+Throughout these teaching experiences, I sought to keep the students actively engaged in learning statistics. How I accomplished this engagement differed depending on the class, but generally relied upon flipping the classroom such that the students were expected to learn by actively doing something rather than passively listening to my lecture. As the lead instructor of the introductory statistics course, active learning typically manifested by reserving a portion of the class for the students to work through a lab introducing the concept in small groups. A typical 50-minute class period would begin with approximately 10 minutes of lecture, during which I would field questions and introduce the day's topic. Following that introduction, students would work on a lab assignment in small groups for approximately 30 minutes as I moved around the room, visiting with groups individually. The class would conclude with a summary of the concepts discussed that day, and groups would have the opportunity to share what they learned. While this structure may be foreign to students initially, it was generally well-received. For example, two students from the introductory statistics class in the Spring 2017 semester left the following feedback on course evaluations: "I like the format, and how he taught the course. Was helpful and explained concepts clearly," and "The format was good and Christian always seemed to know what he was talking about." Another student remarked in the Fall 2017 semester that "group work made class fun and easy to ask for help."
+
+\vspace*{2mm}
+
+As I became the lead instructor of the intermediate statistics course, my implementation of active learning strategies changed to accommodate the denser course material. While I still utilized the flipped classroom structure, I typically did so in a different manner. Rather than allowing the class to work in groups for the majority of the class period, I encouraged students to interact with each other for shorter periods periodically throughout the class. One example of this type of active learning is the so-called "Think-Pair-Share" strategy, in which I would first pose a question and encourage students to think about it individually. Then, after a minute or two, I would invite students to pair with nearby students and share their thoughts on the problem. This type of active learning was advantageous with the more advanced material as it allowed me more opportunities to guide the class discussion's direction than the lab-style flipped classroom. 
+
+\vspace*{2mm}
+
+When invited to guest lecture on statistical power for the undergraduate and graduate level mathematical statistics course, I implemented a flipped classroom structure again. To aid in our exploration of statistical power, I constructed an `R` Shiny web application that showed the implied distribution of the sample statistic under the null and alternative hypotheses for a wide variety of sample statistics and population distributions; a paper describing the web application and its implementation in class is published in [*Technology Innovations in Statistics Education*](https://doi.org/10.5070/T513146468). Both class periods were structured as a guided activity, allowing students to collaborate when interacting with the web application; students again had generally positive feedback for the structure of the class period and web application. Specific student comments are provided in the paper.
+
+\vspace*{2mm}
+
+**Building rapport**
+
+\vspace*{2mm}
+
+While it is important to engage students actively in learning the material, it is equally important to establish rapport with students so that they feel comfortable asking questions and safe in the classroom. In my experience, there are several effective ways to establish rapport with students, including: building an inclusive classroom, being highly available, being knowledgeable and prepared for class, and being genuinely excited about the course material. A few examples of how I build an inclusive classroom include: inviting students to specify their pronouns at the start of the semester, building diverse collections of students for group work, intentionally selecting data for use in class that do not alienate members of the class, and creating a space where students are comfortable asking questions. The other strategies for building rapport (availability, knowledge/preparation, excitement) are easy to do and self-explanatory in their implementation. Still, they are typically the topics students notice on their course evaluations and can heavily impact how much instruction gets to them. Below, I provide a subset of student evaluation comments from multiple semesters related to these points; all evaluations are available upon request. 
 \begin{itemize}
-\item paragraph on engaging students (active learning and technology)
-\item paragraph on supervising MLC, teaching wide variety of students and classes
-\item paragraph on teaching 216/217 with a flipped classroom, stat 411 labs with flipped classroom
-\item paragraph on designing tool for teaching power, and visualizations in 408
-\item school-centric paragraph, list some courses that I would like to teach, some that I would like to create 
+\item Christian taught the class extremely well during class time I just lost focus during lectures but he was willing to meet up or to help whenever it was needed. He was always friendly and checked how we were doing. He always made sure we all knew what was coming up as far as tests and assignments way beforehand. I think his grading was more than fair and understanding.
+\item Christian did a fantastic job of teaching this class. Mastery of course material was obvious, but he tried hard to stimulate one's interest for statistics. He was always available for assistance as well. Thanks for an awesome semester Christian, I really enjoyed this class, which is saying something because I don't really like math at all. You're a great teacher, keep it up.
+\item Christian was a very kind and caring instructor. He was always available and willing to help everyone. Overall was great to work with. 
+\item Professor seemed excited about stats so class was not boring. Professor always available when help was needed. Thanks!
+\item Amazing teacher! He was very helpful + responsive to any questions we had throughout the semester. Christian is definitely an asset to the MSU stats department. 
+\item Mr. Stratton is a great instructor. He is extremely helpful and clear in his presentations. He gives excellent and timely feedback and obviously puts a lot of effort into teaching this course. 
+\item I appreciate your knowledge of the material and your willingness to help anytime.
+\item Christian is a great teacher who clearly loves stats and is very concerned with students understanding of the material. 
+\item I don't quite like stats, but I didn't hate coming to class because Christian was always excited to be there and made a difficult subject learnable by breaking it up into bite size pieces.
+\item You genuinely cared about all of us and our understanding of statistics. You were enthusiastic (even when we weren't) and you went above and beyond for us even when you didn't have to. You have been the best TA I've had so far in my college career. It was a pleasure to learn statistics from you Christian!
 \end{itemize}
+
+When building rapport, it is also important to acknowledge that not all students are the same and that there is no one-size-fits-all recipe for successful instruction. To help diagnose these differences, I frequently administered mid-semester evaluations to my students. I asked for feedback on the course structure and invited them to discuss things that were going well and things that were not. During the Spring 2018 semester, feedback from mid-semester evaluations was overwhelmingly against the lab-style format. As a result, I switched my instruction style towards guided activities and think-pair-share opportunities. The student evaluations spoke very positively about the change, for example:
+\begin{itemize}
+\item The change in the way the class was taught at the end of the semester worked much better
+\item Class went well. Breaking activities into group work and coming back together as a class was okay. Working as a class went better.
+\item Didn't learn that much from the group work but when taught up front/asked for help things become more clear.
+\item I thought that the course was very well known and explained well, I liked the flexibility you had with what teaching methods worked better. Overall, a good stats TA.
+\end{itemize}
+
+\vspace*{2mm}
+
+As faculty at [**SCHOOL**], I look forward to bringing my philosophy and flexibility to the department and learning from the faculty within the department about additional ways to be an effective professor. I am excited by the opportunity to continue teaching, and am particularly excited for the chance to teach [**COURSES**]. Additionally, I would be happy to bring a couple of new courses to the department that are not listed on the online course registry, including: [**CHECK THESE AREN'T OFFERED/THERE IS A GRAD PROGRAM LOL**] an undergraduate course in Bayesian statistics, a course in statistical methodology for environmental and ecological data, or a course on statistical programming and Markov Chain Monte Carlo techniques. 
 
 
 <!-- I still vividly remember sitting down for my first day of introductory statistics with Dr. Katharine Banner in the fall of 2015. As we all wrestled with the installation of `R`, `R` Markdown, and MikTeX, Dr. Banner shared visualizations created in `R` from various projects during graduate school. Her excitement was palpable as she described the power of statistics to provide data-driven solutions to real-world problems. I recall spending the rest of my evening with the `cars` data set and StackOverflow, trying to figure out how to overlay a density plot on a histogram. -->
