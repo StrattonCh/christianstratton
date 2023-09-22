@@ -11,14 +11,11 @@ editor: source
 Christian Stratton
 
 \href{mailto:christianstratton@montana.edu}{christianstratton@montana.edu}
-
-(406) 261-9426
 \end{flushright}
 
 \begin{center}
 \textbf{Statement on diversity, equity, and inclusion} 
 \end{center}
-
 
 Growing up in a low-income household and navigating the demands of working two jobs during my undergraduate years provided me with a firsthand account of some challenges people may face when pursuing higher education and careers in science, technology, engineering, and mathematics (STEM) fields. For example, I worked split shifts at Target for much of my undergraduate degree to stay afloat. Split shifts entailed working from 4:00 to 8:00 in the morning before catching a bus to attend class from 9:00 a.m. to 4:00 in the afternoon, then returning to close Target from 6:00 to 10:30 at night. During the 9:00 a.m. to 4:00 p.m. window during which I was on campus, I would spend two or three hours working in the Mathematics and Statistics Learning Center to bring in a little extra money. Some of my most vivid memories from college are a result of the hectic schedule I maintained to make ends meet: the smell of a pot of coffee set to brew at 2:00 a.m. as I prepared to continue studying for a Linear Algebra exam after finishing my Calculus III homework after work or the inquisitive looks I received from children on the public bus as I furiously scribbled down my homework on the way to class. 
 
@@ -28,7 +25,7 @@ Despite this economic hardship during my childhood and undergraduate years, I ha
 
 \vspace*{2mm}
 
-One challenge that students from under-represented communities have shared with me is accessibility. To help improve the accessibility of education in STEM fields, I served on multiple recruitment panels and met with numerous prospective students as a graduate student at Montana State University. This experience allowed me to engage with students from under-represented communities interested in careers in STEM fields and continue to learn about the challenges and obstacles individuals from these communities face. As a post-doctoral researcher, I continued these efforts by actively recruiting individuals from under-represented communities, including women and students from Ghana and Nigeria, to join a research group I co-led that explores statistical methodology for environmental applications. As a faculty member, I look forward to the opportunity to continue learning about the barriers in place for individuals from diverse populations of students at universities and to continue engaging with individuals from underrepresented communities. As faculty, I hope to improve the accessibility of STEM education for individuals from under-represented communities by advising and mentoring students, providing funding opportunities through programs like NSF REUs, and continuing to focus on outreach to individuals from under-represented communities.
+One challenge that students from under-represented communities have shared with me is accessibility. To help improve the accessibility of education in STEM fields, I served on multiple recruitment panels and met with numerous prospective students as a graduate student at Montana State University. This experience allowed me to engage with students from under-represented communities interested in careers in STEM fields and continue to learn about the challenges and obstacles individuals from these communities face. As a post-doctoral researcher, I continued these efforts by actively recruiting individuals from under-represented communities, including women and students from Ghana and Nigeria, to join a research group I co-led that explores statistical methodology for environmental applications. As a faculty member, I look forward to the opportunity to continue learning about the barriers in place for individuals from diverse populations of students at universities and to continue engaging with individuals from under-represented communities. As faculty, I hope to improve the accessibility of STEM education for individuals from under-represented communities by advising and mentoring students, providing funding opportunities through programs like NSF REUs, and continuing to focus on outreach to individuals from under-represented communities.
 
 \vspace*{2mm}
 
@@ -40,7 +37,7 @@ While participating in recruitment events and community workshops supports diver
 
 \vspace{2mm}
 
-As a faculty member, I will be committed to sustaining efforts to support DEI through continued service and in the classroom. I look forward to the opportunity to continue to serve marginalized students and foster a diverse and equitable learning environment for students of all backgrounds, socio-economic status, race, identity, and religious affiliation. Through mentorship, recruitment, outreach, and advocacy, I am devoted to realizing lasting change and creating an environment where all students can be successful. 
+As a faculty member, I will be committed to sustaining efforts to support DEI through continued service and in the classroom. I am excited to be a part of the support systems that enable students to succeed, just as Montana State faculty members were a part of my support system during my undergraduate degree. I look forward to the opportunity to continue to serve marginalized students and foster a diverse and equitable learning environment for students of all backgrounds, socio-economic status, race, identity, and religious affiliation. Through mentorship, recruitment, outreach, and advocacy, I am devoted to realizing lasting change and creating an environment where all students can be successful.
 
 
 
