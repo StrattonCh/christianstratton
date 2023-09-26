@@ -94,9 +94,9 @@ Retel, C., A.J. Strien, K.M. Irvine, and \textbf{C. Stratton}. "Trends in plant 
 \header{Peer-reviewed Technical Reports}
 \vspace*{2mm}
 
-<!-- ADD BRAD PESU THING, ADD WNS VIGNETTE -->
+<!-- ADD WNS VIGNETTE -->
 
-<!-- \textcolor{red}{Add data release for WNS vignette.} \vspace*{2mm} -->
+\textbf{7)} Udell, B.J., \textbf{C. Stratton}, B.R. Straw, K.M. Irvine, J.D. Reichard, S.M. Gaulke, J.T.H. Coleman, F. Tousley, R.D. Inman, A.N. Schuhmann, R. Shively, and B.E. Reichert. 2023. ["North American Bat Monitoring Program (NABat) Integrated Summer Species Distribution Model: Predicted Tricolored Bat Occupancy Probabilities: U.S. Geological Survey data release."](https://doi.org/10.5066/P9MV37I7) \vspace*{2mm}
 
 \textbf{6) Stratton, C.}, B.R. Straw, J.H. Cox, K.M. Irvine, F.C. Tousley, and B.E. Reichert. 2023. ["Attributed North American Grid-Based Offshore Sampling Frames: U.S. Geological Survey data release."](https://doi.org/10.5066/P9H8NEOY) \vspace*{2mm}
 
@@ -114,6 +114,8 @@ Retel, C., A.J. Strien, K.M. Irvine, and \textbf{C. Stratton}. "Trends in plant 
 
 \header{Presentations}
 \vspace*{2mm}
+
+\textbf{11) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. September 2023. "Joint spatial modeling bridges the gap between disparate disease surveillance and population monitoring efforts informing conservation of at-risk bat species" Invited talk given at the MT Chapter of the ASA annual meeting. Bozeman, MT, USA. \vspace*{2mm}
 
 \textbf{10) Stratton, C.}, K.M. Irvine, K.M. Banner, E. Almberg, D. Bachen, and K. Smucker. August 2023. "Joint spatial modeling of ecological response and disease processes improves estimator precision." Talk given at the Joint Statistical Meetings. Toronto, Ontario, Canada. \vspace*{2mm}
 
