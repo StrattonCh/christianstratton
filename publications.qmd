@@ -9,13 +9,13 @@ editor: visual
 
 ### In Review
 
-**Stratton, C.**, A. Hoegh, T.J. Rodhouse, J.L. Green, K.M. Banner, and K.M. Irvine.  "Clustering and unconstrained ordination with Dirichlet process mixture models". In review in *Methods in Ecology and Evolution*.
+**Stratton, C.**, A. Hoegh, T.J. Rodhouse, J.L. Green, K.M. Banner, and K.M. Irvine. "Clustering and unconstrained ordination with Dirichlet process mixture models". In review in *Methods in Ecology and Evolution*.
 
 **Stratton, C.**, K.M Irvine, K.M. Banner, E.S. Almberg, D. Bachen, and K. Smucker. "Joint spatial modeling bridges the gap between disparate disease surveillance and population monitoring efforts informing conservation of at-risk bat species." In review in the *Journal of Agricultural, Biological, and Environmental Statistics*.
 
-Oram, J., K.M. Banner, **Stratton, C.**, and K.M. Irvine. "Verifying species classification labels using stratified-by-species sampling reduces cost of long-term acoustic monitoring." In review in *Methods in Ecology and Evolution.* 
+Oram, J., K.M. Banner, **Stratton, C.**, and K.M. Irvine. "Verifying species classification labels using stratified-by-species sampling reduces cost of long-term acoustic monitoring." In review in *Methods in Ecology and Evolution.*
 
-Retel, C., A.J. Strien, K.M. Irvine, and **Stratton, C.**. "Trends in plant cover derived from vegetation-plot data using ordinal zero-augmented beta regression." In review in the *Journal of Vegetation Science.* 
+Retel, C., A.J. Strien, K.M. Irvine, and **Stratton, C.**. "Trends in plant cover derived from vegetation-plot data using ordinal zero-augmented beta regression." In review in the *Journal of Vegetation Science.*
 
 ### Published
 
@@ -29,8 +29,7 @@ Retel, C., A.J. Strien, K.M. Irvine, and **Stratton, C.**. "Trends in plant cove
 
 **Stratton, C.**, A.J. Sepulveda, and A. Hoegh. 2020. "[`msocc:` Fit and analyze computationally efficient multi-scale occupancy models in `R`.](https://doi.org/10.1111/2041-210X.13442)" *Methods in Ecology and Evolution*, 11(9), p. 1113 -- 1120.
 
-**Stratton, C.**, A. Hoegh, K. M. Irvine, K. Legg, K. McCloskey, E. Shanahan, M. Tercek, and D. Thoma. 2019. ["Assessing spatial and temporal patterns in sagebrush steppe vegetation communities, 2012-2018: Grand Teton National Park."](https://irma.nps.gov/DataStore/DownloadFile/631136) Natural Resource Report NPS/GRYN/NRR-2019/2020. National Park Service, Fort Collins, Colorado.
-\vspace*{2mm}
+**Stratton, C.**, A. Hoegh, K. M. Irvine, K. Legg, K. McCloskey, E. Shanahan, M. Tercek, and D. Thoma. 2019. ["Assessing spatial and temporal patterns in sagebrush steppe vegetation communities, 2012-2018: Grand Teton National Park."](https://irma.nps.gov/DataStore/DownloadFile/631136) Natural Resource Report NPS/GRYN/NRR-2019/2020. National Park Service, Fort Collins, Colorado. \vspace*{2mm}
 
 Hoegh, A., K. Flagg, and **Stratton, C.**. 2018. Contributed comment on Article by Bradley, Holan, and Wikle [Invited commentary on "Computationally efficient multivariate spatio-temporal models for high-dimensional count-valued data" by Jonathan R. Bradley, Scott H. Holan, and Christopher K. Wikle.](https://eds.p.ebscohost.com/abstract?site=eds&scope=site&jrnl=19360975&AN=138950462&h=fupOc1pyeH8dv67mdPoRzhYvo96LS%2bzCYNHIjAcMPojnVBydkua%2fXFU6RanU78MDh8WNMlzPVI%2fBxvaUiWvg%2bw%3d%3d&crl=c&resultLocal=ErrCrlNoResults&resultNs=Ehost&crlhashurl=login.aspx%3fdirect%3dtrue%26profile%3dehost%26scope%3dsite%26authtype%3dcrawler%26jrnl%3d19360975%26AN%3d138950462) *Bayesian Data Analysis*, 13(1), p. 253 -- 310.
 
@@ -44,6 +43,8 @@ Sepulveda, A.J., A. Hoegh, J.A. Gage, S.L Caldwell-Eldridge, J.M. Birch, **Strat
 
 Sepulveda, A. J., C. Schmidt, J. Amberg, P. Hutchins, **Stratton, C.**, C. Mebane, M. B. Laramie, and D. S. Pilliod. 2019. "[Adding invasive species biosurveillance to the U.S. Geological Survey streamgage network.](https://doi.org/10.1002/ecs2.2843)" *Ecosphere*, 10(8), p. 1 -- 17.
 
+Udell, B.J., **C. Stratton**, B.R. Straw, K.M. Irvine, J.D. Reichard, S.M. Gaulke, J.T.H. Coleman, F. Tousley, R.D. Inman, A.N. Schuhmann, R. Shively, and B.E. Reichert. 2023. ["North American Bat Monitoring Program (NABat) Integrated Summer Species Distribution Model: Predicted Tricolored Bat Occupancy Probabilities: U.S. Geological Survey data release."](https://doi.org/10.5066/P9MV37I7) 
+
 Udell, B.J., B.R. Straw, T.L. Cheng, K. Enns, W.F. Frick, B. Gotthold, K.M. Irvine, C. Lausen, S. Loeb, J.D. Reichard, T.J. Rodhouse, D. Smith, **C. Stratton**, W.E. Thogmartin, and B.E. Reichert. 2022. "[Status and trends of North American bats: Summer occupancy analysis 2010-2019.](https://doi.org/10.5066/P92JGACB)" U.S. Fish and Wildlife Service.
 
-Wessel, S.A., L. Jones, E. Kramer, **C. Stratton**, L. Shoemaker, and D. Laughlin. 2020. "[Predictability and stability of sagebrush-steppe restoration in a changing climate.](https://journals.uwyo.edu/index.php/uwnpsrc/article/view/6791/6301)" National Park Service Annual Report Vol. 43. 
+Wessel, S.A., L. Jones, E. Kramer, **C. Stratton**, L. Shoemaker, and D. Laughlin. 2020. "[Predictability and stability of sagebrush-steppe restoration in a changing climate.](https://journals.uwyo.edu/index.php/uwnpsrc/article/view/6791/6301)" National Park Service Annual Report Vol. 43.
