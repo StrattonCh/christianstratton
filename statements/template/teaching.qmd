@@ -2,7 +2,7 @@
 title: "Statement - teaching revised"
 format: 
   pdf:
-    template: cvtemplate.tex
+    template: cvtemplate_aesthetic.tex
 editor: source
 ---
 <!-- advice: https://crlt.umich.edu/sites/default/files/resource_files/CRLT_no23.pdf -->
@@ -13,9 +13,8 @@ Christian Stratton
 \href{mailto:christianstratton@montana.edu}{christianstratton@montana.edu}
 \end{flushright}
 
-\begin{center}
-\textbf{Teaching statement} 
-\end{center}
+\header{Teaching statement}
+\vspace*{2mm}
 
 When asked what I do for a living, I am frequently met with one of two responses, "Why would you want to do that?" or "That’s cool; I took statistics in college and hated it." These responses characterize one of the main obstacles when teaching statistics: overcoming the stigma surrounding the discipline to engage the students. In the classroom, I deliberately construct my teaching philosophy to engage students in learning statistics by implementing active learning strategies, building rapport with students, and being attentive to student feedback.
 
@@ -46,7 +45,9 @@ During my time instructing in graduate school, students have been generally supp
 
 \newpage
 
-\textbf{Student evaluations in support of previous claims}
+\header{Student evaluations in support of previous claims}
+
+\vspace*{2mm}
 
 \emph{Comments on the flipped classroom format}
 

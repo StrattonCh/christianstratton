@@ -2,7 +2,7 @@
 title: "Statement - research revised"
 format: 
   pdf:
-    template: cvtemplate_aesthetic.tex
+    template: cvtemplate.tex
 editor: source
 ---
 <!-- advice: https://crlt.umich.edu/sites/default/files/resource_files/CRLT_no23.pdf -->
@@ -13,14 +13,15 @@ Christian Stratton
 \href{mailto:christianstratton@montana.edu}{christianstratton@montana.edu}
 \end{flushright}
 
-\header{Research statement}
-\vspace*{2mm}
+\begin{center}
+\textbf{Research statement} 
+\end{center}
 
 John Tukey once said, “The best thing about being a statistician is that you get to play in everyone’s backyard.” This quote is an adage I have embraced through my research by developing statistical methodology to answer scientific questions posed by many collaborators in the environmental and ecological sciences. My collaborative work has collectively established my research identity in environmental statistics, broadly working on Bayesian statistical methodology for species distribution models (SDMs). The diverse statistical methods for species distribution modeling have also exposed me to related research fields, including Bayesian computation, spatial statistics, data integration techniques, and Bayesian nonparametrics. Beyond the environmental and ecological sciences, I have research interests and experience in statistics education. Below, I describe my contributions to these fields and discuss future research directions. 
 
 \vspace*{2mm}
 
-\subheader{Completed work}
+**Completed work**
 
 \vspace*{2mm}
 
@@ -41,7 +42,7 @@ false-positive count detection modeling frameworks. Researchers often rely on ca
 
 \vspace*{2mm}
 
-\subheader{Current work}
+**Current work**
 
 \vspace*{2mm}
 
@@ -57,7 +58,7 @@ Outside of my work on behalf of NABat, I am currently working to improve ordinat
 
 \vspace*{2mm}
 
-\subheader{Future work}
+**Future work**
 
 \vspace*{2mm}
 

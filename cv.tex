@@ -4,7 +4,7 @@
 \usepackage{amssymb}
 \usepackage{textcomp}
 \usepackage{fontawesome5}
-\usepackage{xcolor}
+\usepackage[usenames,dvipsnames]{xcolor}
 \usepackage{hyperref}
 \textheight=10in
 \pagestyle{empty}
@@ -24,11 +24,11 @@
 	\hspace*{-18pt} \hrulefill \\
 }
 \newcommand{\header} [1] {
-	{\hspace*{-18pt}\vspace*{6pt} \textsc{#1}}
-	\vspace*{-6pt} \lineunder
+	{\hspace*{-18pt}\vspace*{6pt} \textcolor{Cerulean}{\textsc{#1}}}
+	\vspace*{-6pt} \textcolor{Cerulean}{\lineunder}
 }
 \newcommand{\subheader} [1] {
-	{\hspace*{-9pt}\vspace*{6pt} \textsc{#1}}
+	{\hspace*{-9pt}\vspace*{6pt} \textcolor{Cerulean}{\textsc{#1}}}
 	\vspace*{-6pt}
 }
 \newcommand{\employer} [3] {
@@ -66,6 +66,7 @@ Research interests include: Bayesian computation, spatial statistics,
 species distribution modeling, modeling of wildlife disease, data
 visualization, and teaching techniques for data science.
 
+\vspace*{2mm}
 \header{Education}
 \vspace*{2mm}
 

@@ -3,7 +3,7 @@
 title: "Statement - DEI"
 format:
   pdf:
-    template: cvtemplate.tex
+    template: cvtemplate_aesthetic.tex
 editor: source
 ---
 
@@ -13,9 +13,8 @@ Christian Stratton
 \href{mailto:christianstratton@montana.edu}{christianstratton@montana.edu}
 \end{flushright}
 
-\begin{center}
-\textbf{Statement on diversity, equity, and inclusion} 
-\end{center}
+\header{Statement on diversity, equity, and inclusion}
+\vspace*{2mm}
 
 Growing up in a low-income household and navigating the demands of working two jobs during my undergraduate years provided me with a firsthand account of some challenges people may face when pursuing higher education and careers in science, technology, engineering, and mathematics (STEM) fields. For example, I worked split shifts at Target for much of my undergraduate degree to stay afloat. Split shifts entailed working from 4:00 to 8:00 in the morning before catching a bus to attend class from 9:00 a.m. to 4:00 in the afternoon, then returning to close Target from 6:00 to 10:30 at night. During the 9:00 a.m. to 4:00 p.m. window during which I was on campus, I would spend two or three hours working in the Mathematics and Statistics Learning Center to bring in a little extra money. Some of my most vivid memories from college are a result of the hectic schedule I maintained to make ends meet: the smell of a pot of coffee set to brew at 2:00 a.m. as I prepared to continue studying for a Linear Algebra exam after finishing my Calculus III homework after work or the inquisitive looks I received from children on the public bus as I furiously scribbled down my homework on the way to class. 
 

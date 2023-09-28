@@ -2,7 +2,7 @@
 title: "CV"
 format:
   pdf:
-    template: cvtemplate_aesthetic.tex
+    template: cvtemplate.tex
     keep-tex: true
 editor: source
 ---
@@ -28,7 +28,6 @@ editor: source
 Post-doctoral researcher in statistics with consulting, research, and teaching experience. Strong analytical skills pertaining to spatial statistics, Bayesian computation, and analysis of ecological data types. Research interests include: Bayesian computation, spatial statistics, species distribution modeling, modeling of wildlife disease, data visualization, and teaching techniques for data science.
 
 <!-- education -->
-
 \vspace*{2mm}
 \header{Education}
 \vspace*{2mm}
