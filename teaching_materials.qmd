@@ -1,0 +1,8 @@
+---
+title: "Sample teaching materials"
+editor: source
+---
+
+[STAT 217 course syllabus](internal_docs/syllabus_stat217/syllabus_stat217.qmd)
+
+[Web application for teaching statistical power](https://christianstratton.shinyapps.io/PowerApp/)
