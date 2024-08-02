@@ -7,7 +7,7 @@ title: "Christian Stratton"
 ::: {.grid}
 
 ::: {.g-col-7}
-My name is Christian Stratton and I am currently a post-doctoral researcher jointly supervised by Dr. [Kathryn Irvine](https://www.usgs.gov/staff-profiles/kathi-irvine) at the U.S. Geological Survey - Northern Rocky Mountain Science Center and Dr. [Katharine Banner](https://math.montana.edu/directory/faculty/1977198/katharine-banner) at Montana State University. My research interests include:
+My name is Christian Stratton and I am currently an assistant professor of statistics at Middlebury College. My research interests include:
 
   - Bayesian computation
   - Species distribution modeling
